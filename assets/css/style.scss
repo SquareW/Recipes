@@ -1,4 +1,15 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+.main-content {
+  h2 {
+   color: #38453c;
+ }
+}
+
+.page-header{
+color:#ffff;
+background-color:#609c6f;
+background-image:linear-gradient(90deg, hsla(129, 42%, 30%, 1) 0%, hsla(158, 91%, 18%, 0.7) 100%);
+}

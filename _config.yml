@@ -1,5 +1,7 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Recipes 
+description: A collection of pescetarian diet recipes 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
