@@ -14,7 +14,7 @@ For 9 egg tarts
 
 *   1 sheet puff pastry 
 *   1/2 cup whole milk  
-*   40g sugar 
+*   3 tablespoon sugar 
 *   1 egg yolk 
 *   1 egg 
 *   3/4 cup heavy whipping cream 
