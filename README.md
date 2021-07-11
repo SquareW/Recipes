@@ -1,4 +1,7 @@
 # Recipes
 
-This is a collection of pescetarian diet recipes. 
+![Website]{https://squarew.github.io/Recipes/}
+
+A collection of pescetarian diet recipes by SquareW. 
+
 
